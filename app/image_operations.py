@@ -21,6 +21,7 @@
 #     return result
 
 from cv2 import vconcat
+import numpy as np
 
 def stitch(image1, image2):
     """give the image1 and image2 as paths of the actual files"""
@@ -28,3 +29,24 @@ def stitch(image1, image2):
     img2 = cv2.imread(image2)
     im_v = cv2.vconcat([img1, img2]) 
     return im_v
+
+def detect_document(image):
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    
+    # Gaussian blur (need to fix this)
+    blurred = cv2.GaussianBlur(gray, (5, 5), 0)
+    
+    edges = cv2.Canny(blurred, 50, 150)
+    
+    contours, _ = cv2.findContours(edges, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+    
+    # There's a better algorithm to find this
+    for contour in contours:
+        epsilon = 0.02 * cv2.arcLength(contour, True)
+        approx = cv2.approxPolyDP(contour, epsilon, True)
+        
+        if len(approx) == 4:
+            cv2.drawContours(image, [approx], -1, (0, 255, 0), 3)
+            return approx
+
+    return None
