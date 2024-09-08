@@ -50,3 +50,13 @@ def detect_document(image):
             return approx
 
     return None
+
+
+def apply_gaussian_blur(image, rois):
+    for roi in rois:
+        x, y, w, h = roi
+        roi_image = image[y:y+h, x:x+w]
+        blurred_roi = cv2.GaussianBlur(roi_image, (15, 15), 0)
+        # Replacement with blurred image
+        image[y:y+h, x:x+w] = blurred_roi
+    return image
