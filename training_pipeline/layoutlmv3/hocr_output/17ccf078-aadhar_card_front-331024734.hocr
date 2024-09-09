@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.3.4' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "./data/17ccf078-aadhar_card_front-331024734.jpg"; bbox 0 0 4320 2824; ppageno 0; scan_res 180 180'>
+   <div class='ocr_photo' id='block_1_1' title="bbox 164 38 1207 1932"></div>
+   <div class='ocr_photo' id='block_1_2' title="bbox 1212 44 3407 262"></div>
+   <div class='ocr_photo' id='block_1_3' title="bbox 1213 278 3475 470"></div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2455 424 2743 445">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 2455 424 2743 445">
+     <span class='ocr_caption' id='line_1_1' title="bbox 2455 424 2743 445; baseline 0.003 -10; x_size 18; x_descenders 5; x_ascenders 3">
+      <span class='ocrx_word' id='word_1_1' title='bbox 2455 430 2489 440; x_wconf 27'>es</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 2484 420 2497 449; x_wconf 31'>te</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 2504 430 2560 445; x_wconf 16'>SONS</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 2576 431 2588 439; x_wconf 24'>ALT:</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 2596 420 2617 449; x_wconf 15'>MM</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 2632 439 2643 445; x_wconf 22'>TH</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 2680 426 2711 437; x_wconf 23'>Baca</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 2709 420 2727 449; x_wconf 20'>BL</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 2738 420 2746 449; x_wconf 12'>ey</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1251 624 3026 1343">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 1251 624 2274 977">
+     <span class='ocr_line' id='line_1_2' title="bbox 1251 624 1902 784; baseline 0.029 -18; x_size 206.09723; x_descenders 45.097233; x_ascenders 38.059769">
+      <span class='ocrx_word' id='word_1_10' title='bbox 1251 626 1592 775; x_wconf 87'>fasta</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1659 624 1902 784; x_wconf 49'>fe</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1254 830 2274 977; baseline -0.002 -31; x_size 146; x_descenders 31; x_ascenders 30">
+      <span class='ocrx_word' id='word_1_12' title='bbox 1254 833 1817 977; x_wconf 92'>Vijender</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1895 830 2274 975; x_wconf 96'>Singh</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 1254 1014 3026 1343">
+     <span class='ocr_line' id='line_1_4' title="bbox 1254 1014 3026 1130; baseline 0 -2; x_size 147.38084; x_descenders 33.38084; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_14' title='bbox 1254 1050 1497 1128; x_wconf 7'>sie</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1557 1014 1703 1128; x_wconf 25'>ay</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1762 1039 1792 1126; x_wconf 89'>/</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1858 1037 2119 1129; x_wconf 95'>Year</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 2183 1035 2287 1130; x_wconf 96'>of</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 2352 1036 2594 1128; x_wconf 92'>Birth</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 2673 1061 2685 1126; x_wconf 62'>:</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 2770 1033 3026 1128; x_wconf 96'>1988</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1254 1214 1936 1343; baseline 0.006 -34; x_size 130; x_descenders 33; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_22' title='bbox 1254 1227 1484 1343; x_wconf 41'>yey</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1546 1216 1580 1310; x_wconf 85'>/</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1658 1214 1936 1314; x_wconf 96'>Male</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_6' title="bbox 107 1297 4320 2689"></div>
+  </div>
+ </body>
+</html>

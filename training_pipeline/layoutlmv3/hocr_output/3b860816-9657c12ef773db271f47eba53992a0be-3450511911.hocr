@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.3.4' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "./data/3b860816-9657c12ef773db271f47eba53992a0be-3450511911.jpg"; bbox 0 0 736 552; ppageno 0; scan_res 72 72'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 35 220 236 235">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 35 220 236 235">
+     <span class='ocr_header' id='line_1_1' title="bbox 35 220 236 235; baseline 0.015 -3; x_size 20.26087; x_descenders 5.2608695; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_1' title='bbox 35 221 89 234; x_wconf 1'>Fane,</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 97 210 163 235; x_wconf 5'>ATTaVS,</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 171 220 236 235; x_wconf 95'>827302</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 70 442 157 469">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 70 442 157 469">
+     <span class='ocr_caption' id='line_1_2' title="bbox 99 442 127 453; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_4' title='bbox 99 442 127 453; x_wconf 95'>1947</span>
+     </span>
+     <span class='ocr_caption' id='line_1_3' title="bbox 70 456 157 469; baseline 0.046 -4; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_5' title='bbox 70 449 97 477; x_wconf 93'>1800</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 103 449 122 477; x_wconf 95'>180</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 129 458 157 469; x_wconf 94'>1947</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 245 411 280 438">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 245 411 280 438">
+     <span class='ocr_line' id='line_1_4' title="bbox 245 411 280 438; baseline 0 0; x_size 37.333332; x_descenders 9.333333; x_ascenders 9.333333">
+      <span class='ocrx_word' id='word_1_8' title='bbox 245 411 280 438; x_wconf 31'>bX</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 203 444 322 459">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 203 444 322 459">
+     <span class='ocr_line' id='line_1_5' title="bbox 203 444 322 459; baseline 0.017 -4; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_9' title='bbox 203 444 322 459; x_wconf 42'>help@uidai.gov.in</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 600 104 631 122">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 600 104 631 122">
+     <span class='ocr_line' id='line_1_6' title="bbox 600 104 631 122; baseline 0.056 -1.722; x_size 22.666666; x_descenders 5.6666665; x_ascenders 5.6666665">
+      <span class='ocrx_word' id='word_1_10' title='bbox 600 104 631 122; x_wconf 95'>DIA</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 346 168 648 267">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 346 168 648 267">
+     <span class='ocr_line' id='line_1_7' title="bbox 347 168 626 191; baseline 0.018 -9; x_size 19; x_descenders 4; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_11' title='bbox 347 168 424 183; x_wconf 96'>Address:</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 433 169 470 184; x_wconf 93'>S/O:</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 479 169 559 185; x_wconf 91'>Mahadev</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 566 171 626 191; x_wconf 82'>Manjhi,</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 347 194 648 217; baseline 0.017 -8; x_size 19; x_descenders 4; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_15' title='bbox 347 194 459 213; x_wconf 91'>karkattakala,</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 467 196 479 211; x_wconf 92'>P</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 486 196 500 211; x_wconf 92'>O</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 507 197 597 217; x_wconf 92'>chandipur,</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 606 199 648 215; x_wconf 93'>Barai</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 347 221 557 242; baseline 0.014 -6; x_size 20.26087; x_descenders 5.2608695; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_20' title='bbox 347 221 402 239; x_wconf 97'>Kalan,</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 410 222 477 240; x_wconf 93'>Bokaro,</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 485 223 557 242; x_wconf 93'>Kasmar,</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 346 249 518 267; baseline 0.012 -3; x_size 20.26087; x_descenders 5.2608695; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_23' title='bbox 346 249 444 267; x_wconf 91'>Jharkhand,</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 452 250 518 266; x_wconf 96'>827302</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 555 417 583 442">
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 555 417 583 442">
+     <span class='ocr_line' id='line_1_11' title="bbox 555 417 583 442; baseline 0 0; x_size 34.666668; x_descenders 8.666667; x_ascenders 8.666667">
+      <span class='ocrx_word' id='word_1_25' title='bbox 555 417 583 442; x_wconf 63'>bat</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 418 448 625 478">
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 418 448 625 478">
+     <span class='ocr_line' id='line_1_12' title="bbox 418 448 625 462; baseline 0.005 -3; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_26' title='bbox 418 448 472 462; x_wconf 65'>fai.gov.in</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 512 448 536 460; x_wconf 36'>P.O.</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 542 448 565 460; x_wconf 91'>Box</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 570 448 625 461; x_wconf 90'>No.1947,</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 509 463 625 478; baseline -0.009 -3; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_30' title='bbox 509 464 600 478; x_wconf 91'>Bengaluru-560</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 605 463 625 474; x_wconf 64'>001</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_9' title="bbox 0 0 736 552"></div>
+  </div>
+ </body>
+</html>

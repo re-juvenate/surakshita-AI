@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.3.4' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "./data/7df21bff-1657690125393.jpg"; bbox 0 0 1360 1020; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 448 353 931 435">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 448 353 931 435">
+     <span class='ocr_line' id='line_1_1' title="bbox 448 353 687 382; baseline -0.008 -2; x_size 31.531647; x_descenders 5.5316458; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_1' title='bbox 448 357 586 382; x_wconf 34'>Harstuta</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 599 353 687 379; x_wconf 96'>Misra</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 448 394 931 435; baseline -0.025 -3; x_size 43; x_descenders 10; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_3' title='bbox 448 398 606 433; x_wconf 31'>wares.</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 655 396 746 428; x_wconf 59'>Rate</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 767 404 842 435; x_wconf 54'>gen</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 862 394 931 422; x_wconf 60'>Pe</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 447 452 946 486">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 447 452 946 486">
+     <span class='ocr_line' id='line_1_3' title="bbox 447 452 946 486; baseline -0.036 1; x_size 35; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_7' title='bbox 447 457 603 486; x_wconf 92'>Guardian</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 615 445 631 490; x_wconf 90'>.</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 638 455 733 480; x_wconf 93'>Vinod</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 748 453 848 477; x_wconf 72'>Kumar</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 864 452 946 475; x_wconf 69'>Misra</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 448 499 948 596">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 448 499 948 596">
+     <span class='ocr_caption' id='line_1_4' title="bbox 448 499 948 538; baseline -0.028 1; x_size 40.466259; x_descenders 5.4662576; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_12' title='bbox 448 512 526 538; x_wconf 74'>gen</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 547 500 643 537; x_wconf 35'>fa)</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 657 504 738 533; x_wconf 67'>DOB</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 772 499 948 530; x_wconf 95'>04/07/2005</span>
+     </span>
+     <span class='ocr_caption' id='line_1_5' title="bbox 448 557 709 596; baseline -0.05 2; x_size 43.453987; x_descenders 4.4539876; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_16' title='bbox 448 557 547 596; x_wconf 0'>Figet</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 563 572 568 586; x_wconf 33'>|</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 584 561 709 590; x_wconf 76'>Female</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_4' title="bbox 0 0 1360 1020"></div>
+  </div>
+ </body>
+</html>

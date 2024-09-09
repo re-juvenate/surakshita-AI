@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.3.4' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "./data/a3c02be6-262074151608642712IMG_20201222_152829.jpg"; bbox 0 0 1987 1332; ppageno 0; scan_res 70 70'>
+   <div class='ocr_photo' id='block_1_1' title="bbox 0 11 1880 298"></div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 52 224 1132 338">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 52 224 1132 338">
+     <span class='ocr_line' id='line_1_1' title="bbox 52 224 1059 334; baseline -0.021 -54; x_size 62; x_descenders 11; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_1' title='bbox 52 224 208 334; x_wconf 2'>weaial</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 230 246 243 278; x_wconf 82'>:</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1049 260 1059 269; x_wconf 36'>:</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 54 257 1132 338; baseline -0.023 -4; x_size 55.65992; x_descenders 6.6599197; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_4' title='bbox 54 291 141 338; x_wconf 93'>S/O</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 161 297 297 331; x_wconf 0'>Slee</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 362 277 463 329; x_wconf 59'>Ue,</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 487 289 569 326; x_wconf 53'>OY,</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 591 271 687 320; x_wconf 50'>2152</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 704 279 826 320; x_wconf 69'>WISI,</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 845 275 1003 314; x_wconf 42'>Baul</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1027 257 1132 321; x_wconf 39'>Hlez</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 51 319 1061 390">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 51 319 1061 390">
+     <span class='ocr_line' id='line_1_3' title="bbox 51 319 1061 390; baseline -0.021 -4; x_size 57.410957; x_descenders 6.4109592; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_12' title='bbox 51 336 158 390; x_wconf 43'>wid,</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 235 343 409 384; x_wconf 8'>aleaizen,</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 432 338 539 377; x_wconf 37'>Eleat</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 564 333 600 375; x_wconf 87'>&amp;</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 619 338 716 373; x_wconf 18'>oz</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 736 319 867 374; x_wconf 27'>Edel,</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 889 329 1000 368; x_wconf 57'>eter</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1023 323 1061 365; x_wconf 91'>&amp;</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 52 387 716 492">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 52 387 716 492">
+     <span class='ocr_line' id='line_1_4' title="bbox 52 387 293 441; baseline -0.017 -3; x_size 56.107384; x_descenders 6.1073828; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_20' title='bbox 52 403 147 438; x_wconf 9'>o2iz</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 166 387 293 441; x_wconf 4'>edd),</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 53 436 716 492; baseline -0.018 0; x_size 55.456375; x_descenders 6.4563761; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_22' title='bbox 53 454 160 492; x_wconf 37'>El€21</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 184 448 219 490; x_wconf 89'>&amp;</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 237 452 331 489; x_wconf 0'>1912</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 352 436 461 488; x_wconf 28'>69d]</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 483 463 501 471; x_wconf 90'>-</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 522 437 716 483; x_wconf 96'>396230</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 51 541 1096 806">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 51 541 303 587">
+     <span class='ocr_line' id='line_1_6' title="bbox 51 541 303 587; baseline -0.02 0; x_size 54.636837; x_descenders 9.636837; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_28' title='bbox 51 541 303 587; x_wconf 95'>Address:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 52 581 1096 806">
+     <span class='ocr_line' id='line_1_7' title="bbox 52 581 1093 643; baseline -0.013 -3; x_size 55.069965; x_descenders 9.0699644; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_29' title='bbox 52 597 139 643; x_wconf 43'>§/0</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 157 590 449 639; x_wconf 91'>Chhotubhai</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 473 586 619 637; x_wconf 95'>Patel,</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 643 588 718 636; x_wconf 96'>07,</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 737 585 895 630; x_wconf 92'>Tokar</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 913 581 1093 631; x_wconf 92'>Khada,</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 52 636 1096 707; baseline -0.01 -16; x_size 64; x_descenders 18; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_35' title='bbox 52 651 176 693; x_wconf 93'>Near</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 191 649 387 707; x_wconf 92'>Ayappa</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 407 643 598 692; x_wconf 95'>Mandir,</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 621 639 856 696; x_wconf 96'>Silvassa,</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 880 638 1037 682; x_wconf 93'>Dadra</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1058 636 1096 681; x_wconf 93'>&amp;</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 52 690 1027 748; baseline -0.01 -3; x_size 55; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_41' title='bbox 52 703 208 747; x_wconf 95'>Nagar</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 264 697 405 748; x_wconf 95'>Haveli,</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 429 695 582 742; x_wconf 92'>Dadra</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 606 696 641 741; x_wconf 92'>&amp;</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 663 695 825 748; x_wconf 95'>Nagar</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 843 690 1027 741; x_wconf 95'>Haveli,</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 52 748 880 806; baseline -0.008 -6; x_size 54; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_47' title='bbox 52 756 203 800; x_wconf 93'>Dadra</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 225 755 260 799; x_wconf 91'>&amp;</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 281 754 440 806; x_wconf 96'>Nagar</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 457 749 622 796; x_wconf 91'>Haveli</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 644 772 663 782; x_wconf 91'>-</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 684 748 880 794; x_wconf 96'>396230</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1947 322 1987 835">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 1947 322 1987 835">
+     <span class='ocr_line' id='line_1_11' title="bbox 1947 322 1987 835; textangle 90; x_size 43.403507; x_descenders 5.4035087; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_53' title='bbox 1952 607 1987 835; x_wconf 0'>udeiBoloud</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1956 515 1987 587; x_wconf 44'>WI</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 1956 399 1987 501; x_wconf 60'>eped</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1947 322 1985 384; x_wconf 79'>HO</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 610 1151 1369 1162">
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 610 1151 1369 1162">
+     <span class='ocr_caption' id='line_1_12' title="bbox 610 1151 1369 1162; baseline -0.004 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_57' title='bbox 610 1154 627 1162; x_wconf 0'>ue</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 631 1155 635 1160; x_wconf 0'>e</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 638 1155 657 1161; x_wconf 0'>enw</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 659 1154 685 1161; x_wconf 0'>Aved</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 692 1154 707 1161; x_wconf 21'>CN</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 710 1152 1277 1162; x_wconf 0'>PUNEESEAAUYAOAESSOREEDEYAAASEA</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 932 1141 954 1169; x_wconf 30'>EOE</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 958 1141 975 1169; x_wconf 41'>SAD</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 979 1141 1003 1169; x_wconf 4'>OOOH</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 1009 1141 1143 1169; x_wconf 0'>RASAESTAURAASINAEAY</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1147 1141 1173 1169; x_wconf 26'>ONS</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 1175 1141 1213 1169; x_wconf 0'>ARLES</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1219 1141 1269 1169; x_wconf 11'>ENEECOE</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1275 1141 1311 1169; x_wconf 0'>PEEPED</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1317 1151 1335 1158; x_wconf 0'>SAL</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1345 1152 1369 1159; x_wconf 0'>EC=S</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_separator' id='block_1_8' title="bbox 1346 1213 1768 1217"></div>
+  </div>
+ </body>
+</html>

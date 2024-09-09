@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.3.4' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "./data/cfb406cd-086d820550f34066764f4047ddc263ca-2918230343.jpg"; bbox 0 0 1059 739; ppageno 0; scan_res 72 72'>
+   <div class='ocr_photo' id='block_1_1' title="bbox 0 170 1059 530"></div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 309 183 656 316">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 310 183 506 210">
+     <span class='ocr_line' id='line_1_1' title="bbox 310 183 506 210; baseline 0.005 -7; x_size 27; x_descenders 6; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_1' title='bbox 310 183 443 210; x_wconf 15'>gQeveijun</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 457 183 506 204; x_wconf 86'>Car</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 309 222 458 246">
+     <span class='ocr_line' id='line_1_2' title="bbox 309 222 458 246; baseline 0 -5; x_size 24; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_3' title='bbox 309 222 431 246; x_wconf 93'>Aishwarya</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 441 222 458 241; x_wconf 93'>G</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 310 258 656 316">
+     <span class='ocr_line' id='line_1_3' title="bbox 311 258 656 285; baseline -0.003 -6; x_size 28; x_descenders 7; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_5' title='bbox 311 258 388 285; x_wconf 48'>WMHS</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 403 258 524 285; x_wconf 17'>Men</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 463 254 472 290; x_wconf 58'>/</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 484 258 517 285; x_wconf 91'>DOB</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 534 267 537 278; x_wconf 91'>:</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 547 262 656 279; x_wconf 95'>17/11/1999</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 310 295 546 316; baseline 0 0; x_size 27.61165; x_descenders 6.6116505; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_11' title='bbox 310 295 435 316; x_wconf 25'>Quetorumed</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 444 297 451 316; x_wconf 87'>/</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 461 297 546 316; x_wconf 96'>Female</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 99 585 919 657">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 99 585 919 657">
+     <span class='ocr_line' id='line_1_5' title="bbox 99 585 919 657; baseline -0.013 -17; x_size 64; x_descenders 17; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_14' title='bbox 99 592 228 657; x_wconf 19'>ASM</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 251 622 260 627; x_wconf 91'>-</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 285 600 470 652; x_wconf 0'>ETHNIC</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 501 581 602 661; x_wconf 0'>WaAG</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 615 581 715 661; x_wconf 0'>elon</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 732 585 919 646; x_wconf 0'>gH\emj</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 895 581 922 661; x_wconf 0'>wo</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

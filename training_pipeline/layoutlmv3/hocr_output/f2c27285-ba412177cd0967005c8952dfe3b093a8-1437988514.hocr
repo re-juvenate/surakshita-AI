@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.3.4' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "./data/f2c27285-ba412177cd0967005c8952dfe3b093a8-1437988514.jpg"; bbox 0 0 1280 960; ppageno 0; scan_res 72 72'>
+   <div class='ocr_photo' id='block_1_1' title="bbox 122 13 1269 262"></div>
+   <div class='ocr_photo' id='block_1_2' title="bbox 0 435 404 696"></div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 435 290 888 472">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 439 290 722 341">
+     <span class='ocr_line' id='line_1_1' title="bbox 439 290 722 341; baseline 0.011 -17; x_size 43.939095; x_descenders 7.9390941; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_1' title='bbox 439 290 512 325; x_wconf 0'>(aet</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 522 300 606 341; x_wconf 60'>SAR</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 615 291 722 327; x_wconf 0'>WIA</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 439 342 888 468">
+     <span class='ocr_line' id='line_1_2' title="bbox 441 342 797 373; baseline 0.003 -6; x_size 32; x_descenders 6; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_4' title='bbox 441 343 539 373; x_wconf 95'>Ranjan</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 553 343 649 368; x_wconf 92'>Kumar</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 659 342 797 368; x_wconf 92'>Sachdeva</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 439 370 888 420; baseline 0.002 -10; x_size 32; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_7' title='bbox 439 380 519 420; x_wconf 38'>ery</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 521 370 563 420; x_wconf 82'>ay</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 579 383 593 415; x_wconf 82'>/</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 603 386 669 411; x_wconf 96'>Year</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 679 384 709 411; x_wconf 96'>of</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 720 385 787 411; x_wconf 92'>Birth</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 801 393 805 410; x_wconf 90'>:</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 819 386 888 411; x_wconf 96'>1975</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 435 422 612 472; baseline 0.006 -20.023; x_size 31.496296; x_descenders 5.4962959; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_15' title='bbox 435 422 502 472; x_wconf 10'>Geer</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 514 426 528 457; x_wconf 84'>/</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 540 423 612 463; x_wconf 96'>Male</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 437 552 1169 648">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 437 552 1169 648">
+     <span class='ocr_line' id='line_1_5' title="bbox 437 552 1169 648; baseline 0.018 -13; x_size 125.86667; x_descenders 31.466667; x_ascenders 31.466667">
+      <span class='ocrx_word' id='word_1_18' title='bbox 437 583 542 627; x_wconf 5'>ree</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 560 583 666 627; x_wconf 71'>0175</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 682 583 788 627; x_wconf 73'>9216</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 804 552 970 647; x_wconf 2'>[INI</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 982 553 1169 648; x_wconf 46'>Ml</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 413 725 1114 787">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 413 725 1114 787">
+     <span class='ocr_line' id='line_1_6' title="bbox 413 725 1114 787; baseline 0.004 -4; x_size 70.393257; x_descenders 9.3932581; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_23' title='bbox 413 761 460 766; x_wconf 89'>—</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 501 721 587 800; x_wconf 57'>FAM</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 626 721 791 800; x_wconf 0'>arest</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 823 721 883 800; x_wconf 65'>ar</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 913 725 1114 787; x_wconf 41'>afar</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_6' title="bbox 1114 696 1226 818"></div>
+  </div>
+ </body>
+</html>

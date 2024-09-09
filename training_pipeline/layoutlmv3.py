@@ -6,6 +6,20 @@ import datasets
 from PIL import Image
 import pandas as pd
 
+logger = datasets.logging.get_logger(__name__)
+_CITATION = """\
+@article{,
+  title={},
+  author={},
+  journal={},
+  year={},
+  volume={}
+}
+"""
+_DESCRIPTION = """\
+This is a sample dataset for training layoutlmv3 model on custom annotated data.
+"""
+
 
 def load_image(image_path):
     image = Image.open(image_path).convert("RGB")
@@ -23,6 +37,10 @@ def normalize_bbox(bbox, size):
 
 
 _URLS = []
+
+"""Edit your working directory folder path here if required. 
+If this file is in the same folder as the "layoutlmv3" folder keep it as it is.
+"""
 data_path = r"./"
 
 
@@ -64,8 +82,7 @@ class InvoiceExtraction(datasets.GeneratorBasedBuilder):
                                 "aadhar_address",
                                 "aadhar_dob",
                                 "aadhar_mobile_no",
-                                "aadhar_qr",
-                            ]
+                            ]  # Enter the list of labels that you have here.
                         )
                     ),
                     "image_path": datasets.Value("string"),
@@ -94,6 +111,7 @@ class InvoiceExtraction(datasets.GeneratorBasedBuilder):
         ]
 
     def _generate_examples(self, filepath, dest):
+
         df = pd.read_csv(
             os.path.join(dest, "class_list.txt"), delimiter="\s", header=None
         )
@@ -132,15 +150,11 @@ class InvoiceExtraction(datasets.GeneratorBasedBuilder):
             if flag > 0:
                 print(image_path)
 
-            yield (
-                guid,
-                {
-                    "id": str(guid),
-                    "tokens": text,
-                    "bboxes": boxes,
-                    "ner_tags": label,
-                    "image_path": image_path,
-                    "image": image,
-                },
-            )
-
+            yield guid, {
+                "id": str(guid),
+                "tokens": text,
+                "bboxes": boxes,
+                "ner_tags": label,
+                "image_path": image_path,
+                "image": image,
+            }

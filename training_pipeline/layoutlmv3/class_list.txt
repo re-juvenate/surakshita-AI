@@ -1,0 +1,1 @@
+aadhar_no, aadhar_name, aadhar_address, aadhar_dob, aadhar_mobile_no, 

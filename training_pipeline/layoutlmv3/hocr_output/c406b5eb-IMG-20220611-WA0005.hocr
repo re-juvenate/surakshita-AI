@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.3.4' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "./data/c406b5eb-IMG-20220611-WA0005.jpg"; bbox 0 0 612 410; ppageno 0; scan_res 70 70'>
+   <div class='ocr_photo' id='block_1_1' title="bbox 0 0 12 85"></div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 72 10 416 245">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 72 10 371 67">
+     <span class='ocr_line' id='line_1_1' title="bbox 72 10 371 67; baseline 0.017 -29; x_size 34.996338; x_descenders 6.9963369; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_1' title='bbox 72 10 110 67; x_wconf 38'>z</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 177 16 298 41; x_wconf 46'>Cane</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 307 25 371 43; x_wconf 70'>war</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 75 52 412 112">
+     <span class='ocr_line' id='line_1_2' title="bbox 75 52 412 74; baseline 0.021 -7; x_size 24; x_descenders 6; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_4' title='bbox 75 68 107 73; x_wconf 63'>=</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 205 52 332 73; x_wconf 96'>Government</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 338 56 358 74; x_wconf 96'>of</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 365 56 412 74; x_wconf 94'>India</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 181 92 269 112; baseline 0 0; x_size 26.173239; x_descenders 6.1732388; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_8' title='bbox 181 92 233 112; x_wconf 12'>FR</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 242 97 269 112; x_wconf 49'>ay</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 181 120 352 136">
+     <span class='ocr_line' id='line_1_4' title="bbox 181 120 352 136; baseline 0.018 -3; x_size 24.820278; x_descenders 5.6176472; x_ascenders 5.5526314">
+      <span class='ocrx_word' id='word_1_10' title='bbox 181 120 305 135; x_wconf 92'>CHUNESHVAR</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 313 123 352 136; x_wconf 90'>NAAI</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 178 148 345 170">
+     <span class='ocr_line' id='line_1_5' title="bbox 178 148 345 170; baseline 0.024 -7; x_size 21; x_descenders 5; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_12' title='bbox 178 148 210 165; x_wconf 48'>far:</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 234 152 272 168; x_wconf 0'>ago</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 280 154 310 166; x_wconf 27'>oe</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 319 154 345 170; x_wconf 66'>aS</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 177 172 416 245">
+     <span class='ocr_line' id='line_1_6' title="bbox 179 172 409 188; baseline 0.013 -3; x_size 24.820278; x_descenders 5.6176472; x_ascenders 5.5526314">
+      <span class='ocrx_word' id='word_1_16' title='bbox 179 172 228 186; x_wconf 89'>Father</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 238 164 244 197; x_wconf 59'>:</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 244 173 409 188; x_wconf 96'>BHUSHAN</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 331 164 362 197; x_wconf 93'>LAL</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 370 164 412 197; x_wconf 83'>NAAI</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 178 197 416 217; baseline 0.013 -3; x_size 23.35014; x_descenders 5.3501401; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_21' title='bbox 178 202 216 214; x_wconf 15'>sew</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 225 197 272 216; x_wconf 0'>Fafe/</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 279 202 315 216; x_wconf 92'>DOB</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 322 214 324 216; x_wconf 83'>:</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 331 203 416 217; x_wconf 95'>06/05/2005</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 177 227 262 245; baseline 0.024 -6; x_size 24.820278; x_descenders 5.6176472; x_ascenders 5.5526314">
+      <span class='ocrx_word' id='word_1_26' title='bbox 177 227 219 245; x_wconf 3'>JET</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 211 217 220 250; x_wconf 3'>/</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 226 227 262 241; x_wconf 96'>Male</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 172 292 393 317">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 172 292 393 317">
+     <span class='ocr_line' id='line_1_9' title="bbox 172 292 393 317; baseline 0.014 -3; x_size 31.266666; x_descenders 7.8166666; x_ascenders 7.8166666">
+      <span class='ocrx_word' id='word_1_29' title='bbox 172 292 239 315; x_wconf 94'>4443</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 250 293 316 316; x_wconf 94'>9866</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 327 294 393 317; x_wconf 96'>3505</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

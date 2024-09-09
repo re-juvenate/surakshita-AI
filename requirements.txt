@@ -1,6 +1,7 @@
 opencv-contrib-python
 datasets
 transformers
+accelerate
 modal
 pillow
 pandas

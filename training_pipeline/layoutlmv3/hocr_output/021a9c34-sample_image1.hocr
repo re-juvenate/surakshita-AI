@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.3.4' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "./data/021a9c34-sample_image1.jpg"; bbox 0 0 1024 640; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 391 84 515 99">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 391 84 515 99">
+     <span class='ocr_line' id='line_1_1' title="bbox 391 84 515 99; baseline 0 -4; x_size 21.25; x_descenders 5.5; x_ascenders 5.25">
+      <span class='ocrx_word' id='word_1_1' title='bbox 391 84 439 96; x_wconf 9'>Na</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 456 85 515 99; x_wconf 41'>Bran</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 382 171 669 252">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 382 171 669 252">
+     <span class='ocr_caption' id='line_1_2' title="bbox 383 171 514 191; baseline 0.008 -1; x_size 23.753086; x_descenders 4.7530861; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_3' title='bbox 383 171 449 190; x_wconf 17'>afar</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 460 171 514 191; x_wconf 37'>ferartr</span>
+     </span>
+     <span class='ocr_caption' id='line_1_3' title="bbox 382 204 530 220; baseline 0 -1; x_size 18.734568; x_descenders 3.7345676; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_5' title='bbox 382 204 468 220; x_wconf 96'>Abhishek</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 476 204 530 220; x_wconf 96'>Tiwari</span>
+     </span>
+     <span class='ocr_caption' id='line_1_4' title="bbox 383 231 669 252; baseline 0 0; x_size 26.432098; x_descenders 5.4320984; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_7' title='bbox 383 236 429 251; x_wconf 1'>area</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 440 231 496 252; x_wconf 22'>fefet</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 492 227 502 262; x_wconf 34'>/</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 504 236 548 252; x_wconf 92'>DOB</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 556 240 559 252; x_wconf 56'>:</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 566 236 669 252; x_wconf 94'>07/05/2002</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 383 265 498 290">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 383 265 498 290">
+     <span class='ocr_caption' id='line_1_5' title="bbox 383 265 498 290; baseline 0 -9; x_size 32.75; x_descenders 9.5; x_ascenders 7.75">
+      <span class='ocrx_word' id='word_1_13' title='bbox 383 265 435 290; x_wconf 22'>Jee</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 430 254 438 295; x_wconf 56'>/</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 442 265 498 281; x_wconf 96'>MALE</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_4' title="bbox 12 0 874 618"></div>
+  </div>
+ </body>
+</html>
