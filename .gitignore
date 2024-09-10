@@ -1,5 +1,6 @@
 venv
 data
-training_pipeline/data
+training_pipeline/layoutlmv3/hocr_output
+training_pipeline/layoutlmv3/*
 training_pipeline/training.zip
 env/

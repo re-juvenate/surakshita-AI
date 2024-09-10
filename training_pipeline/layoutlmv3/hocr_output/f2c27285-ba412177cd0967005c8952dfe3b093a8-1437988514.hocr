@@ -9,7 +9,7 @@
   <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
  </head>
  <body>
-  <div class='ocr_page' id='page_1' title='image "./data/f2c27285-ba412177cd0967005c8952dfe3b093a8-1437988514.jpg"; bbox 0 0 1280 960; ppageno 0; scan_res 72 72'>
+  <div class='ocr_page' id='page_1' title='image "./layoutlmv3/f2c27285-ba412177cd0967005c8952dfe3b093a8-1437988514.jpg"; bbox 0 0 1280 960; ppageno 0; scan_res 72 72'>
    <div class='ocr_photo' id='block_1_1' title="bbox 122 13 1269 262"></div>
    <div class='ocr_photo' id='block_1_2' title="bbox 0 435 404 696"></div>
    <div class='ocr_carea' id='block_1_3' title="bbox 435 290 888 472">

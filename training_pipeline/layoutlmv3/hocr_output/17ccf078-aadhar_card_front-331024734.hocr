@@ -9,7 +9,7 @@
   <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
  </head>
  <body>
-  <div class='ocr_page' id='page_1' title='image "./data/17ccf078-aadhar_card_front-331024734.jpg"; bbox 0 0 4320 2824; ppageno 0; scan_res 180 180'>
+  <div class='ocr_page' id='page_1' title='image "./layoutlmv3/17ccf078-aadhar_card_front-331024734.jpg"; bbox 0 0 4320 2824; ppageno 0; scan_res 180 180'>
    <div class='ocr_photo' id='block_1_1' title="bbox 164 38 1207 1932"></div>
    <div class='ocr_photo' id='block_1_2' title="bbox 1212 44 3407 262"></div>
    <div class='ocr_photo' id='block_1_3' title="bbox 1213 278 3475 470"></div>

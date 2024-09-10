@@ -128,7 +128,7 @@ for i in tqdm(custom_dataset.iterrows(), total=custom_dataset.shape[0]):
 
     file_name = i[1]["file_name"]
     for image in itertools.chain(
-        glob.glob("./data/*.jpg")
+        glob.glob("./layoutlmv3/*.jpg")
     ):  # Make sure you add your extension or change it based on your needs
         frame_file_name = os.path.basename(image)
         if frame_file_name == file_name:
@@ -142,12 +142,12 @@ for i in tqdm(custom_dataset.iterrows(), total=custom_dataset.shape[0]):
                 box1 = [[x1, y1], [x2, y1], [x2, y2], [x1, y2]]
                 label = label_coord[0][0]
                 base_name = os.path.join(
-                    "./data",
+                    "./layoutlmv3",
                     "hocr_output",
                     os.path.basename(image).split(".")[0],
                 )
                 pytesseract.run_tesseract(
-                    image, base_name, extension="box", lang=None, config="hocr --psm 8"
+                    image, base_name, extension="box", lang=None, config="hocr --psm 11"
                 )
                 hocr_file = os.path.join(base_name + ".hocr")
                 hocr_df = hocr_to_dataframe(hocr_file)
@@ -174,21 +174,21 @@ for i in tqdm(custom_dataset.iterrows(), total=custom_dataset.shape[0]):
 train, test = train_test_split(final_list, random_state=21, test_size=0.2)
 
 for detail in final_list:
-    with open("data/final_list_text.txt", "a") as f:
+    with open("./layoutlmv3/final_list_text.txt", "a") as f:
         f.write(str(detail))
         f.write("\n")
 
 for detail in train:
-    with open("data/train.txt", "a") as f:
+    with open("./layoutlmv3/train.txt", "a") as f:
         f.write(str(detail))
         f.write("\n")
 
 for detail in test:
-    with open("data/test.txt", "a") as f:
+    with open("./layoutlmv3/test.txt", "a") as f:
         f.write(str(detail))
         f.write("\n")
 
-with open("data/class_list.txt", "w") as f:
+with open("./layoutlmv3/class_list.txt", "w") as f:
     for detail in label2id.keys():
             f.write(str(detail))
             f.write(", ")

@@ -9,7 +9,7 @@
   <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
  </head>
  <body>
-  <div class='ocr_page' id='page_1' title='image "./data/7f3a8e9e-Aadhar-Card-678x381-174137544.jpg"; bbox 0 0 678 381; ppageno 0; scan_res 72 72'>
+  <div class='ocr_page' id='page_1' title='image "./layoutlmv3/7f3a8e9e-Aadhar-Card-678x381-174137544.jpg"; bbox 0 0 678 381; ppageno 0; scan_res 72 72'>
    <div class='ocr_carea' id='block_1_1' title="bbox 219 79 332 115">
     <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 219 79 332 115">
      <span class='ocr_line' id='line_1_1' title="bbox 219 79 306 91; baseline 0.011 -2; x_size 21.5; x_descenders 5.5; x_ascenders 5.5">

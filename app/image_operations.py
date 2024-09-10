@@ -20,7 +20,7 @@
 #     result.paste(im=image2, box=(width1, 0))
 #     return result
 
-from cv2 import vconcat
+import cv2
 import numpy as np
 
 def stitch(image1, image2):
@@ -60,3 +60,10 @@ def apply_gaussian_blur(image, rois):
         # Replacement with blurred image
         image[y:y+h, x:x+w] = blurred_roi
     return image
+
+face_cascade = cv2.CascadeClassifier('cascades/haarcascade_frontalface_default.xml')
+
+def detect_faces(image):
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    faces = face_cascade.detectMultiScale(gray, 1.1, 4)
+    return faces
